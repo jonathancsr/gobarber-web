@@ -4,7 +4,6 @@ import { Form } from '@unform/web';
 import { FormHandles } from '@unform/core';
 import * as Yup from 'yup';
 
-import { title } from 'process';
 import { useAuth } from '../../hooks/auth';
 import { useToast } from '../../hooks/toast';
 
